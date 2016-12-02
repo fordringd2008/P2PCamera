@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BA9A8984-2DA4-4A29-8E80-C4F7F00056E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>P2PCamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>109D7A8C-9A51-4348-ACCF-5ADF9EF410EA</key>
+		<string>svn://192.168.3.253/crm/ios1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>P2PCamera/P2PCamera.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>109D7A8C-9A51-4348-ACCF-5ADF9EF410EA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>109D7A8C-9A51-4348-ACCF-5ADF9EF410EA</key>
+		<string>svn://192.168.3.253</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.3.253/crm/ios1/P2PCamera/P2PCamera.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>109D7A8C-9A51-4348-ACCF-5ADF9EF410EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>109D7A8C-9A51-4348-ACCF-5ADF9EF410EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
